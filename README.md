@@ -44,6 +44,8 @@ hobbies: ["Books", "Cinema", "Gaming", "Cooking"]
 [![VKontakte](https://img.shields.io/badge/-VK-064168?style=for-badge-loop&logo=VK&logoColor=4d7db3)](https://vk.com/id268186380)
 [![GitHub](https://img.shields.io/badge/-GITHUB-%2312100E?style=for-badge-loop&logo=Github&logoColor=white)](https://github.com/ZhirnovED)
 
+
+<div>
 <img style="float: right;" width="330" height="195" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ZhirnovED&show_icons=true&theme=gotham" alt="ZhirnovED"/>
-
+</div>
