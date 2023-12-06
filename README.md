@@ -7,32 +7,22 @@ About me
 
 Latest
 
-Language and tools
+### Language and Tools
+![HTML5](https://img.shields.io/badge/-HTML-064168?style=for-badge-loop&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-064168?style=for-badge-loop&logo=css3)
 ![JS](https://img.shields.io/badge/-JS-064168?style=for-badge-loop&logo=JavaScript)
-![Laravel](https://img.shields.io/badge/-Python-064168?style=for-badge-loop&logo=Python)
-![Csharp](https://img.shields.io/badge/-Csharp-064168?style=for-badge-loop&logo=Csharp)
+![TypeScript](https://img.shields.io/badge/-TS-064168?style=for-badge-loop&logo=Typescript)
 ![React](https://img.shields.io/badge/-React-064168?style=for-badge-loop&logo=React)
+![php](https://img.shields.io/badge/-PHP-064168?style=for-badge-loop&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-064168?style=for-badge-loop&logo=laravel)
+![Laravel](https://img.shields.io/badge/-Python-064168?style=for-badge-loop&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-064168?style=for-badge-loop&logo=Django)
+![Csharp](https://img.shields.io/badge/-Csharp-064168?style=for-badge-loop&logo=Csharp)
 ![Unity](https://img.shields.io/badge/-Unity-064168?style=for-badge-loop&logo=Unity)
 ![MySQL](https://img.shields.io/badge/-MySQL-064168?style=for-badge-loop&logo=mysql)
 
+### Follow Me
 
+[![Telegramm](https://img.shields.io/badge/-HTML-064168?style=for-badge-loop&logo=Telegram)](https://t.me/Steven138899)
+[![VKontakte](https://img.shields.io/badge/-CSS3-064168?style=for-badge-loop&logo=VK&logoColor=4d7db3)](https://vk.com/id268186380)
 
-Follow Me
-
-
-<!--
-**ZhirnovED/ZhirnovED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
