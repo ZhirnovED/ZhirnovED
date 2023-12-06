@@ -1,12 +1,32 @@
 [![Header](https://github.com/ZhirnovED/ZhirnovED/blob/main/assets/banner.png)](https://t.me/Steven138899)
 
-## I'm a beginner FullStack Developer  
+## I'm a beginner FullStack Developer
+
+### About me
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+
+```yaml
+name: Egor Zhirnov
+located_in: Samara, Russia
+from: Samara (Russia)
+job: Engineer Programmer
+education: ["Applied Computer Science in the electronic economy", "Artificial intelligence and Big data"]
+company: Gazprom
+past experiences: 
+  - ["Gazprom", "Engineer Programmer", "Samara", "2023"]
+  - ["IntercomMedia", "SEO-junior", "Samara", "2021 - 2022"]
+fields_of_interests: ["GameDev", "Web Development"]
+currently_learning: ["Web3", "React", "Vue"]
+will_learn: ["Blockchain (backend)"]
+hobbies: ["Books", "Cinema", "Gaming", "Cooking"]
+```
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-
 ### Language and Tools
-### About me
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-064168?style=for-badge-loop&logo=css3)
 ![JS](https://img.shields.io/badge/-JS-064168?style=for-badge-loop&logo=JavaScript)
@@ -28,4 +48,5 @@
 [![VKontakte](https://img.shields.io/badge/-VK-064168?style=for-badge-loop&logo=VK&logoColor=4d7db3)](https://vk.com/id268186380)
 [![GitHub](https://img.shields.io/badge/-GITHUB-%2312100E?style=for-badge-loop&logo=Github&logoColor=white)](https://github.com/ZhirnovED)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZhirnovED&show_icons=true&theme=gotham" alt="ZhirnovED" />
 
