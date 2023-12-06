@@ -2,10 +2,7 @@
 
 ## I'm a beginner FullStack Developer  
 
-About me
-
-
-Latest
+### About me
 
 ### Language and Tools
 ![HTML5](https://img.shields.io/badge/-HTML-064168?style=for-badge-loop&logo=html5)
