@@ -23,6 +23,6 @@ Latest
 
 ### Follow Me
 
-[![Telegramm](https://img.shields.io/badge/-HTML-064168?style=for-badge-loop&logo=Telegram)](https://t.me/Steven138899)
-[![VKontakte](https://img.shields.io/badge/-CSS3-064168?style=for-badge-loop&logo=VK&logoColor=4d7db3)](https://vk.com/id268186380)
+[![Telegramm](https://img.shields.io/badge/-Telegram-064168?style=for-badge-loop&logo=Telegram)](https://t.me/Steven138899)
+[![VKontakte](https://img.shields.io/badge/-VK-064168?style=for-badge-loop&logo=VK&logoColor=4d7db3)](https://vk.com/id268186380)
 
