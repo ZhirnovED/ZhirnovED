@@ -11,7 +11,9 @@ name: Egor Zhirnov
 located_in: Samara, Russia
 from: Samara (Russia)
 job: Engineer Programmer
-education: ["Applied Computer Science in the electronic economy", "Artificial intelligence and Big data"]
+education: 
+  - ["Applied Computer Science in the electronic economy"]
+  - ["Artificial intelligence and Big data"]
 company: Gazprom
 past experiences: 
   - ["Gazprom", "Engineer Programmer", "Samara", "2023"]
@@ -90,19 +92,26 @@ hobbies: ["Books", "Cinema", "Gaming", "Cooking"]
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
 
-<details>
-  <summary><b>👨‍💻 My Repositories 👨‍💻</b></summary>
-    <br>
-    <div width="100%" align="center">
-      <a align="left" href="https://github.com/ZhirnovED/WEB" title="WEB">
-        <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhirnovED&repo=WEB&theme=react&border_color=61dafb&border_radius=10">
-      </a>
-      <a align="right" href="https://github.com/ZhirnovED/Python" title="Python">
-        <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhirnovED&repo=Python&theme=react&border_color=61dafb&border_radius=10">
-      </a>
-    </div>
+<h3>📖  What I am currently learning / improving on</h3>
+  <p>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  </p>
+
+<h3>👾  What I am interested in learning at some point</h3>
+  <p>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  </p>
 </details>
 
 <details>
@@ -111,6 +120,19 @@ hobbies: ["Books", "Cinema", "Gaming", "Cooking"]
   <br />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ZhirnovED&show_icons=true&theme=gotham" alt="ZhirnovED"/>
   <img alt="ZhirnovED's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ZhirnovED&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=eee&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+</details>
+
+<details>
+  <summary><b>👨‍💻 My Repositories 👨‍💻</b></summary>
+    <br>
+    <div width="100%" align="center">
+      <a href="https://github.com/ZhirnovED/WEB" title="WEB">
+        <img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhirnovED&repo=WEB&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+      <a href="https://github.com/ZhirnovED/Python" title="Python">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhirnovED&repo=Python&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+    </div>
 </details>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
