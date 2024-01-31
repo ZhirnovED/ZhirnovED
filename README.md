@@ -16,7 +16,7 @@ located_in: Samara, Russia
 from: Samara (Russia)
 job: Engineer Programmer
 education: 
-  - ["Applied Computer Science in the electronic economy"]
+  - ["Applied Computer Science in the E-commerce"]
   - ["Artificial intelligence and Big data"]
 company: Gazprom
 past experiences: 
@@ -25,7 +25,7 @@ past experiences:
 code: ["Javascript", "Python", "C#", "PHP"]
 technologies: {
   backEnd: ["PHP", "Laravel", "Django"]
-  frontEnd: ["React", "HTML5/CSS3/JS"]
+  frontEnd: ["HTML5/CSS3/JS"]
   gameDev: ["Unity/C#"]
   dataBase: ["PostGre", "MySQL", "SQLite"]
 }
@@ -55,6 +55,8 @@ hobbies: ["Books", "Cinema", "Gaming", "Cooking"]
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
       <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+      <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+      
   </p>
 
 <h3>🧰 Frameworks and Libraries</h3>
@@ -123,7 +125,6 @@ hobbies: ["Books", "Cinema", "Gaming", "Cooking"]
       <img alt="Sass" src ="https://img.shields.io/badge/Sass-pink.svg?logo=sass&logoColor=white">
       <img alt="Three.js" src ="https://img.shields.io/badge/Three.js-green.svg?logo=Three.js&logoColor=white">
       <img alt="NPM" src ="https://img.shields.io/badge/NPM-F00000.svg?logo=npm&logoColor=white">
-      <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
   </p>
 
 <h3>👾  What I am interested in learning at some point</h3>
